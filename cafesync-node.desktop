@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=cafesync-node
+Exec=qmlscene $@ Main.qml
+Icon=cafesync-node.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

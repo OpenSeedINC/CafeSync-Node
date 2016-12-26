@@ -1,0 +1,17 @@
+{
+    "name": "cafesync-node.vagueentertainment",
+    "description": "description of cafesync-node",
+    "architecture": "all",
+    "title": "cafesync-node",
+    "hooks": {
+        "cafesync-node": {
+            "apparmor": "cafesync-node.apparmor",
+            "desktop":  "cafesync-node.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Benjamin Flanagin <bflanagin@vagueentertainment.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
